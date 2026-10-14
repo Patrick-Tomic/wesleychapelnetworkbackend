@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "avalon-park-fall-fest-2026",
+    "title": "Avalon Park Fall Fest",
+    "date": "2026-10-17",
+    "weekday": "Sat",
+    "month": "Oct",
+    "day": "17",
+    "time": "10 AM – 9 PM",
+    "venue": "Avalon Park Wesley Chapel",
+    "address": "4424 Friendly Way, Wesley Chapel, FL 33545",
+    "city": "Wesley Chapel",
+    "organizer": "Avalon Park Wesley Chapel",
+    "url": "https://avalonparkwesleychapel.com/news-events/",
+    "summary": "A full day in Avalon Park: live music, food trucks, local vendors, a kids zone, pumpkin patch, and a talent show.",
+    "tags": [
+      "Live music",
+      "Food trucks",
+      "Vendors",
+      "Kids zone",
+      "Pumpkin patch",
+      "Talent show"
+    ]
+  },
+  {
+    "slug": "msz-halloween-howl-2026",
+    "title": "Halloween Howl",
+    "date": "2026-10-24",
+    "weekday": "Sat",
+    "month": "Oct",
+    "day": "24",
+    "time": "4 PM – 9 PM",
+    "venue": "Downtown Zephyrhills",
+    "address": "38500 5th Avenue, Zephyrhills, FL 33542",
+    "city": "Zephyrhills",
+    "organizer": "Main Street Zephyrhills",
+    "url": "https://www.mainstreetzephyrhillsevents.org/",
+    "summary": "Main Street Zephyrhills takes over downtown for a Halloween evening. Check the organizer's page for activities and registration.",
+    "tags": [
+      "Halloween",
+      "Downtown",
+      "Evening"
+    ]
+  },
+  {
+    "slug": "fall-festival-2026-harvest-of-hope",
+    "title": "Harvest of Hope Fall Festival",
+    "date": "2026-10-31",
+    "weekday": "Sat",
+    "month": "Oct",
+    "day": "31",
+    "time": "1 PM – 5 PM",
+    "venue": "Carmel Friendship Church",
+    "address": "30081 Wells Road, Wesley Chapel, FL 33545",
+    "city": "Wesley Chapel",
+    "organizer": "Carmel Friendship Church",
+    "url": "https://www.cfriendship.org/event-details/fall-festival-2026-harvest-of-hope",
+    "summary": "Decorated trunks and candy, a chili cook-off, a sweets bake-off, food, games, and prizes for every age.",
+    "tags": [
+      "Trunk-or-treat",
+      "Chili cook-off",
+      "Bake-off",
+      "Games & prizes"
+    ]
+  }
+]

@@ -1,0 +1,460 @@
+[
+  {
+    "slug": "audi-wesley-chapel",
+    "name": "Audi Wesley Chapel",
+    "category": "automotive",
+    "tags": [
+      "Dealerships"
+    ],
+    "phone": "(813) 607-3100",
+    "address": "2500 Lajuana Blvd, Wesley Chapel, Florida 33543",
+    "city": "Wesley Chapel"
+  },
+  {
+    "slug": "reeves-import-motor-cars",
+    "name": "Reeves Import Motor Cars",
+    "category": "automotive",
+    "tags": [
+      "Dealerships"
+    ],
+    "phone": "(813) 933-2811",
+    "address": "11333 North Florida Ave, Tampa, Florida 33612",
+    "city": "Tampa"
+  },
+  {
+    "slug": "suncoast-auto-glass",
+    "name": "Suncoast Auto Glass",
+    "category": "automotive",
+    "tags": [
+      "Auto Glass Services"
+    ],
+    "phone": "(813) 355-3465",
+    "address": "35236 State Road 54, Zephyrhills, Florida 33544",
+    "city": "Zephyrhills",
+    "website": "https://suncoastautoglass.com/",
+    "image": "/listings/suncoast-auto-glass.png"
+  },
+  {
+    "slug": "natural-balance-massage",
+    "name": "Natural Balance Massage",
+    "category": "beauty-personal-care",
+    "tags": [
+      "Massage Therapy"
+    ],
+    "phone": "(813) 293-9155",
+    "address": "3848 Flatiron Loop, Suite 101, Wesley Chapel, Florida 33544",
+    "city": "Wesley Chapel"
+  },
+  {
+    "slug": "qvita-health-and-wellness-primary-care-and-cosmetic-services",
+    "name": "Qvita Health and Wellness Primary Care and Cosmetic Services",
+    "category": "beauty-personal-care",
+    "tags": [
+      "Spas & Aesthetics"
+    ],
+    "phone": "(813) 501-4130",
+    "address": "2734 Windguard Circle, Suite 101, Wesley Chapel, Florida 33544",
+    "city": "Wesley Chapel"
+  },
+  {
+    "slug": "miraculous-health-and-wellness-spa",
+    "name": "Miraculous Health and Wellness Spa",
+    "category": "beauty-personal-care",
+    "tags": [
+      "Skincare",
+      "Spas & Aesthetics"
+    ],
+    "phone": "(813) 609-2553",
+    "address": "26314 Wesley Chapel Blvd, Lutz, Florida 33559",
+    "city": "Lutz",
+    "website": "https://miraculous-hw.com/about",
+    "image": "/listings/miraculous-health-and-wellness-spa.jpg"
+  },
+  {
+    "slug": "massage-envy",
+    "name": "Massage Envy",
+    "category": "beauty-personal-care",
+    "tags": [
+      "Spas & Aesthetics",
+      "Massage Therapy"
+    ],
+    "phone": "(813) 948-5600",
+    "address": "1821 Bruce B Downs Blvd, Suite 124, Wesley Chapel, Florida 33544",
+    "city": "Wesley Chapel"
+  },
+  {
+    "slug": "pulse-salon-spa",
+    "name": "Pulse Salon & Spa",
+    "category": "beauty-personal-care",
+    "tags": [
+      "Barbershops",
+      "Nail Salons",
+      "Hair Salons",
+      "Spas & Aesthetics"
+    ],
+    "phone": "(813) 428-6917",
+    "address": "3756 Turman Loop, Wesley Chapel, Florida 33644",
+    "city": "Wesley Chapel",
+    "website": "https://www.pulse-salonandspa.com/",
+    "image": "/listings/pulse-salon-spa.png"
+  },
+  {
+    "slug": "zios-new-york-bagel-deli",
+    "name": "ZIO'S New York Bagel & Deli",
+    "category": "food-drink",
+    "tags": [
+      "Coffee Shops & Cafes",
+      "Restaurants"
+    ],
+    "phone": "(813) 388-9498",
+    "website": "https://ziosnybagels.com/",
+    "image": "/listings/zios-new-york-bagel-deli.png"
+  },
+  {
+    "slug": "mcnamara-health-wellness-center",
+    "name": "Mcnamara Health & Wellness Center",
+    "category": "health-wellness",
+    "tags": [
+      "Chiropractors"
+    ],
+    "phone": "(813) 343-1680",
+    "address": "24812 State Road 54, Suite 12B, Lutz, Florida 33559",
+    "city": "Lutz"
+  },
+  {
+    "slug": "club-pilates-new-tampa",
+    "name": "Club Pilates New Tampa",
+    "category": "health-wellness",
+    "tags": [
+      "Yoga & Pilates"
+    ],
+    "phone": "(813) 461-6010",
+    "address": "15341 Amberly Drive, Tampa, Florida 33647",
+    "city": "Tampa"
+  },
+  {
+    "slug": "club-pilates",
+    "name": "Club Pilates",
+    "category": "health-wellness",
+    "tags": [
+      "Yoga & Pilates",
+      "Personal Trainers",
+      "Fitness Centers & Gyms",
+      "Wellness Centers"
+    ],
+    "phone": "(813) 607-6655",
+    "address": "28249 Paseo Drive, Suite 190, Wesley Chapel, Florida 33543",
+    "city": "Wesley Chapel"
+  },
+  {
+    "slug": "farina-orthodontic-specialists",
+    "name": "Farina Orthodontic Specialists",
+    "category": "health-wellness",
+    "tags": [
+      "Dentists",
+      "Orthodontics"
+    ],
+    "phone": "(813) 972-2929",
+    "address": "2370 Bruce B Downs, Suite 100, Wiregrass, Wesley Chapel, Florida 33544",
+    "city": "Wesley Chapel",
+    "website": "https://farinasmiles.com/",
+    "image": "/listings/farina-orthodontic-specialists.png"
+  },
+  {
+    "slug": "pinch-a-penny-pools-new-tampa",
+    "name": "Pinch a Penny Pools, New Tampa",
+    "category": "home-services",
+    "tags": [
+      "Pools & Outdoor Living"
+    ],
+    "phone": "(813) 866-1438",
+    "address": "19064 Bruce B Downs Blvd, Tampa, Florida 33647",
+    "city": "Tampa"
+  },
+  {
+    "slug": "plant-city-stucco-repair",
+    "name": "Plant City Stucco Repair",
+    "category": "home-services",
+    "tags": [
+      "Drywall, Stucco & Insulation"
+    ],
+    "phone": "(813) 704-7593",
+    "address": "4003 Thonotosassa Rd, Plant City, Florida 33565",
+    "city": "Plant City"
+  },
+  {
+    "slug": "superstar-window-cleaning-llc",
+    "name": "Superstar Window Cleaning LLC",
+    "category": "home-services",
+    "tags": [
+      "Cleaning Services",
+      "Windows & Doors"
+    ],
+    "phone": "(813) 444-4499",
+    "address": "27251 Wesley Chapel Blvd, Suite 103, Wesley Chapel, Florida 33544",
+    "city": "Wesley Chapel"
+  },
+  {
+    "slug": "germ-masters",
+    "name": "Germ Masters",
+    "category": "home-services",
+    "tags": [
+      "Cleaning Services"
+    ],
+    "phone": "(813) 626-8880",
+    "address": "13014 N Dale Mabry, Suite 213, Tampa, Florida 33618",
+    "city": "Tampa"
+  },
+  {
+    "slug": "yowells-roofing-company",
+    "name": "Yowell's Roofing Company",
+    "category": "home-services",
+    "tags": [
+      "Roofing"
+    ],
+    "phone": "(813) 949-4561",
+    "address": "1635 N Dale Mabry Hwy, Suite 15, Lutz, Florida 33548",
+    "city": "Lutz"
+  },
+  {
+    "slug": "aquamedic",
+    "name": "AquaMedic",
+    "category": "home-services",
+    "tags": [
+      "Pools & Outdoor Living"
+    ],
+    "phone": "(813) 993-8383"
+  },
+  {
+    "slug": "the-smarter-garage",
+    "name": "The Smarter Garage",
+    "category": "home-services",
+    "tags": [
+      "Remodeling & Renovation"
+    ],
+    "phone": "(813) 675-9143",
+    "address": "Tampa, Tampa, Florida",
+    "city": "Tampa"
+  },
+  {
+    "slug": "sunshine-cleaning-services",
+    "name": "Sunshine Cleaning Services",
+    "category": "home-services",
+    "tags": [
+      "Cleaning Services"
+    ],
+    "phone": "(309) 712-6947",
+    "address": "2167 Railroad Vine Dr, Suite 204, Odessa, Florida 33566",
+    "city": "Odessa"
+  },
+  {
+    "slug": "hydro-power-wash-llc",
+    "name": "Hydro Power Wash LLC",
+    "category": "home-services",
+    "tags": [
+      "Cleaning Services",
+      "Restoration",
+      "Power Washing",
+      "Pressure washing"
+    ],
+    "phone": "(912) 980-1780",
+    "address": "11504 Braeside Place, Tampa, Florida 33612",
+    "city": "Tampa",
+    "website": "http://www.hydropowerwashllc.com",
+    "image": "/listings/hydro-power-wash-llc.jpg"
+  },
+  {
+    "slug": "flo-rite-air-conditioning-heating",
+    "name": "Flo-Rite Air Conditioning & Heating",
+    "category": "home-services",
+    "tags": [
+      "HVAC"
+    ],
+    "phone": "(813) 796-8034",
+    "address": "902 W. Dr. Martin Luther King Jr. Blvd. Unit 4, Plant City, Florida 33563",
+    "city": "Plant City",
+    "website": "https://flo-riteac.com/tampa/",
+    "image": "/listings/flo-rite-air-conditioning-heating.jpg"
+  },
+  {
+    "slug": "budget-blinds",
+    "name": "Budget Blinds",
+    "category": "home-services",
+    "tags": [
+      "Windows & Doors"
+    ],
+    "phone": "(813) 968-5050",
+    "address": "1208 W Fletcher Ave, Tampa, Florida 33612",
+    "city": "Tampa"
+  },
+  {
+    "slug": "e-r-quality-painting",
+    "name": "E & R Quality Painting",
+    "category": "home-services",
+    "tags": [
+      "Painting"
+    ],
+    "phone": "(813) 295-4294",
+    "address": "31112 Chatterly Dr, Wesley Chapel, Florida 33543",
+    "city": "Wesley Chapel",
+    "image": "/listings/e-r-quality-painting.png"
+  },
+  {
+    "slug": "new-tampa-fence",
+    "name": "New Tampa Fence",
+    "category": "home-services",
+    "tags": [
+      "Fencing"
+    ],
+    "phone": "(813) 535-3034",
+    "address": "24727 State Road 54, Lutz, Florida 33559",
+    "city": "Lutz",
+    "website": "http://www.newtampafence.com",
+    "image": "/listings/new-tampa-fence.png"
+  },
+  {
+    "slug": "cross-town-garage-doors",
+    "name": "Crosstown Garage Doors",
+    "category": "home-services",
+    "tags": [
+      "Windows & Doors",
+      "Garage",
+      "Screen Repair",
+      "Pools & Outdoor Living"
+    ],
+    "phone": "(813) 461-3320",
+    "address": "Wesley Chapel, Florida",
+    "city": "Wesley Chapel",
+    "website": "http://www.crosstowngaragedoors.com",
+    "image": "/listings/cross-town-garage-doors.jpg"
+  },
+  {
+    "slug": "your-green-team",
+    "name": "Your Green Team",
+    "category": "home-services",
+    "tags": [
+      "Landscaping & Lawn Care"
+    ],
+    "phone": "(813) 501-6663",
+    "address": "902 W Doctor Martin Luther King Jr Blvd, Plant City, Florida 33563",
+    "city": "Plant City",
+    "website": "https://yourgreenteam.com/?pk_vid=6242168e59aad018173669936395847b",
+    "image": "/listings/your-green-team.png"
+  },
+  {
+    "slug": "larsens-pool-spa",
+    "name": "Larsens Pool & Spa",
+    "category": "home-services",
+    "tags": [
+      "Remodeling & Renovation",
+      "Restoration",
+      "Contractors",
+      "Sealer",
+      "Pools & Outdoor Living"
+    ],
+    "phone": "(727) 786-7665",
+    "address": "9909 Race Track Rd, Tampa, Florida 33626",
+    "city": "Tampa",
+    "website": "https://larsenspoolandspa.com/",
+    "image": "/listings/larsens-pool-spa.jpg"
+  },
+  {
+    "slug": "titan-plumbing-and-electric",
+    "name": "Titan Plumbing and Electric",
+    "category": "home-services",
+    "tags": [
+      "Electrical",
+      "Plumbing"
+    ],
+    "phone": "(813) 933-8010",
+    "address": "8406 N Mitchell Ave, Tampa, Florida 33604",
+    "city": "Tampa",
+    "website": "https://www.titanplumbingandelectric.com/",
+    "image": "/listings/titan-plumbing-and-electric.png"
+  },
+  {
+    "slug": "floor-technologies-inc",
+    "name": "Floor Technologies Inc",
+    "category": "home-services",
+    "tags": [
+      "Restoration",
+      "Garage",
+      "Sealer",
+      "Flooring"
+    ],
+    "phone": "(813) 600-7555",
+    "address": "1709 Turkey Creek Road, Plant City, Florida 33566",
+    "city": "Plant City",
+    "website": "https://floortechnologies.com/",
+    "image": "/listings/floor-technologies-inc.png"
+  },
+  {
+    "slug": "bull-moving-llc",
+    "name": "Bull Moving",
+    "category": "home-services",
+    "tags": [
+      "Moving & Storage"
+    ],
+    "phone": "(813) 943-6043",
+    "address": "12204 N Florida Ave, Wesley Chapel, Florida 33612",
+    "city": "Wesley Chapel",
+    "website": "http://www.bullmoving.com",
+    "image": "/listings/bull-moving-llc.png"
+  },
+  {
+    "slug": "elaine-summerhill-piano-lessons",
+    "name": "Elaine Summerhill Piano Lessons",
+    "category": "kids-family",
+    "tags": [
+      "Tutoring & Learning Centers"
+    ],
+    "phone": "(813) 997-9800",
+    "address": "34632 Morning Glory Glen, Zephyrhills, Florida 33541",
+    "city": "Zephyrhills"
+  },
+  {
+    "slug": "fairway-independent-mortgage-corp",
+    "name": "Fairway Independent Mortgage Corp",
+    "category": "professional-services",
+    "tags": [
+      "Mortgage Lenders"
+    ],
+    "phone": "(813) 833-7424",
+    "address": "3404 W Bay to Bay Blvd, Tampa, Florida 33629",
+    "city": "Tampa"
+  },
+  {
+    "slug": "phone-repair-more",
+    "name": "Phone Repair & More",
+    "category": "professional-services",
+    "tags": [
+      "Phone & Computer Repair"
+    ],
+    "phone": "(813) 591-9575",
+    "address": "5339 Village Market, Wesley Chapel, Florida 33544",
+    "city": "Wesley Chapel",
+    "website": "https://phonerepairmore.com/wesley-chapel-phone-repair/",
+    "image": "/listings/phone-repair-more.png"
+  },
+  {
+    "slug": "renew-interiors",
+    "name": "Renew Interiors",
+    "category": "real-estate-housing",
+    "tags": [
+      "Interior Design"
+    ],
+    "phone": "(813) 263-4235"
+  },
+  {
+    "slug": "outsmart-pest-management",
+    "name": "Outsmart Pest Management",
+    "category": "home-services",
+    "tags": [
+      "Pest Control"
+    ],
+    "phone": "(813) 973-1814",
+    "address": "4814 Parkway Blvd, Land O Lakes, Florida 34639",
+    "city": "Land O Lakes",
+    "website": "https://outsmartpest.com/"
+  }
+]

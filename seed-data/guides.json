@@ -1,0 +1,311 @@
+[
+  {
+    "slug": "plan-a-weekend-around-wesley-chapel",
+    "title": "A simple way to plan a weekend around Wesley Chapel",
+    "section": "Things to Do",
+    "date": "2026-10-03",
+    "excerpt": "One event, one outdoor stop, one new local spot. That's plenty for a good weekend.",
+    "body": [
+      {
+        "type": "p",
+        "text": "A good weekend doesn't need a packed schedule. One local outing, a little time outside, and a stop at a nearby business can be plenty."
+      },
+      {
+        "type": "h",
+        "text": "Start with one event"
+      },
+      {
+        "type": "p",
+        "text": "Pick something from the events page that suits your group. Before you go, check the organizer's page for start time, admission, registration, and parking. Some events need tickets in advance even when entry is free."
+      },
+      {
+        "type": "h",
+        "text": "Leave room for an easy outdoor stop"
+      },
+      {
+        "type": "p",
+        "text": "A walk or a playground fits nicely before or after an event. Pick somewhere close to your main stop instead of adding a long drive. Bring water, check the forecast, and have an indoor backup in mind."
+      },
+      {
+        "type": "h",
+        "text": "Make one local discovery"
+      },
+      {
+        "type": "p",
+        "text": "Try a nearby business you haven't been to yet. The directory is a good starting point. Just check opening hours with the business before you head out."
+      },
+      {
+        "type": "h",
+        "text": "Keep the day manageable"
+      },
+      {
+        "type": "p",
+        "text": "One main destination, one optional stop. If you're heading into a neighboring town, check the drive time and don't book things back to back. A relaxed afternoon usually beats trying to do everything."
+      }
+    ],
+    "cta": {
+      "label": "See upcoming events",
+      "href": "/events"
+    }
+  },
+  {
+    "slug": "new-to-wesley-chapel-build-your-local-shortlist",
+    "title": "New to Wesley Chapel? Build your local shortlist",
+    "section": "Local Guides",
+    "date": "2026-10-03",
+    "excerpt": "You don't need to figure everything out in week one. Start with a short list of people you can call.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Settling in is easier with a few useful contacts and a couple of places you already know. You don't need to figure out everything in the first week."
+      },
+      {
+        "type": "h",
+        "text": "Start with your everyday needs"
+      },
+      {
+        "type": "p",
+        "text": "List the services you'll actually use: home maintenance, pet care, personal care, places to eat. Browse the directory by what you need, then contact businesses directly to confirm their service area and availability."
+      },
+      {
+        "type": "h",
+        "text": "Ask a few practical questions"
+      },
+      {
+        "type": "p",
+        "text": "Before booking, explain what you need and ask what's included in the price. For bigger jobs, get a written estimate and agree on timing, materials, and follow-up. A listing is a starting point for your own research, so choose whoever fits you best."
+      },
+      {
+        "type": "h",
+        "text": "Find one place to spend an afternoon"
+      },
+      {
+        "type": "p",
+        "text": "A local park, a public event, or a regular coffee stop makes a new neighborhood feel like home faster. Check the events page and the park guides here."
+      },
+      {
+        "type": "h",
+        "text": "Save what works"
+      },
+      {
+        "type": "p",
+        "text": "Keep a note on your phone with the businesses you liked, their numbers, and places you want to try next. Add a few options from nearby towns if they fit your routine."
+      }
+    ],
+    "cta": {
+      "label": "Browse local businesses",
+      "href": "/listings"
+    }
+  },
+  {
+    "slug": "parks-in-pasco-county",
+    "title": "10 parks worth the drive in Pasco County",
+    "section": "Things to Do",
+    "date": "2024-11-26",
+    "excerpt": "Springs, salt marshes, a 40-mile trail, and a miniature train. All north of the county line.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Pasco has trails, playgrounds, and water for every kind of Saturday. Here are ten worth knowing."
+      },
+      {
+        "type": "places",
+        "items": [
+          {
+            "name": "Werner-Boyce Salt Springs State Park",
+            "address": "8737 U.S. Highway 19, Port Richey",
+            "text": "Salt marshes and springs with kayaking, hiking, and bird-watching.",
+            "highlights": "Kayaking, nature trails, wildlife"
+          },
+          {
+            "name": "Starkey Wilderness Park",
+            "address": "10500 Wilderness Park Blvd, New Port Richey",
+            "text": "Over 7,000 preserved acres for hiking, biking, and camping.",
+            "highlights": "Multi-use trails, camping"
+          },
+          {
+            "name": "Anclote Gulf Park",
+            "address": "2305 Baillies Bluff Road, Holiday",
+            "text": "A Gulf-front park with a fishing pier and sunset views.",
+            "highlights": "Fishing pier, Gulf views, picnics"
+          },
+          {
+            "name": "Jay B. Starkey Wilderness Preserve",
+            "address": "10500 Wilderness Park Blvd, New Port Richey",
+            "text": "Part of the Starkey system, with miles of trails through varied habitat.",
+            "highlights": "Horseback riding, biking trails"
+          },
+          {
+            "name": "Sims Park",
+            "address": "5547 Main St, New Port Richey",
+            "text": "Downtown park with a playground, splash pad, and riverside walk.",
+            "highlights": "Playground, riverwalk, events"
+          },
+          {
+            "name": "Crews Lake Wilderness Park",
+            "address": "16739 Crews Lake Drive, Spring Hill",
+            "text": "A miniature train ride, nature trails, and a lake for kayaking or fishing.",
+            "highlights": "Miniature train, lakeside"
+          },
+          {
+            "name": "Suncoast Trail",
+            "address": "Access at SR 54 & Suncoast Parkway, Odessa",
+            "text": "Over 40 paved miles for cyclists and long-distance runners.",
+            "highlights": "Long-distance trail"
+          },
+          {
+            "name": "Anclote River Park",
+            "address": "1119 Baillies Bluff Road, Holiday",
+            "text": "Sandy beach, boat ramp, and picnic pavilions.",
+            "highlights": "Beach, boat ramp, picnics"
+          },
+          {
+            "name": "Withlacoochee River Park",
+            "address": "12449 Withlacoochee Blvd, Dade City",
+            "text": "Riverside trails and a boardwalk, with canoeing and kayaking.",
+            "highlights": "River access, canoeing"
+          },
+          {
+            "name": "San Antonio City Park",
+            "address": "32819 Pennsylvania Ave, San Antonio",
+            "text": "A small-town park with a playground, sports courts, and shade.",
+            "highlights": "Family-friendly, sports courts"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "label": "Plan the rest of the weekend",
+      "href": "/events"
+    }
+  },
+  {
+    "slug": "parks-in-hillsborough-county",
+    "title": "10 parks worth the drive in Hillsborough County",
+    "section": "Things to Do",
+    "date": "2024-11-26",
+    "excerpt": "Boardwalks, mountain bike trails, and the Riverwalk, all south of the line.",
+    "body": [
+      {
+        "type": "p",
+        "text": "From wetland boardwalks to waterfront piers, Hillsborough has plenty within reach of Wesley Chapel."
+      },
+      {
+        "type": "places",
+        "items": [
+          {
+            "name": "Lettuce Lake Park",
+            "address": "6920 E Fletcher Ave, Tampa",
+            "text": "An elevated boardwalk through wetlands, a canoe launch, and plenty of wildlife.",
+            "highlights": "Boardwalk, canoeing, birding"
+          },
+          {
+            "name": "Alafia River State Park",
+            "address": "14326 S County Road 39, Lithia",
+            "text": "6,000+ acres of rugged terrain for hiking, riding, and mountain biking.",
+            "highlights": "Mountain biking, horseback riding"
+          },
+          {
+            "name": "Flatwoods Wilderness Park",
+            "address": "14302 Morris Bridge Rd, Tampa",
+            "text": "Miles of multi-use trail through wetlands and prairie, close to New Tampa.",
+            "highlights": "Hiking, biking, wildlife"
+          },
+          {
+            "name": "Tampa Riverwalk",
+            "address": "600 N Ashley Dr, Tampa",
+            "text": "The downtown path along the Hillsborough River, linking museums, parks, and restaurants.",
+            "highlights": "River views, dining"
+          },
+          {
+            "name": "Balm-Boyette Scrub Nature Preserve",
+            "address": "15720 Boyette Rd, Riverview",
+            "text": "A quiet 1,000-acre preserve for hiking and wildlife photography.",
+            "highlights": "Hiking, photography"
+          },
+          {
+            "name": "MacDill Park",
+            "address": "1800 S MacDill Ave, Tampa",
+            "text": "Bay views and picnic spots, with planes overhead from the base.",
+            "highlights": "Waterfront, picnics"
+          },
+          {
+            "name": "E.G. Simmons Regional Park",
+            "address": "2401 19th Ave NW, Ruskin",
+            "text": "On the shore of Tampa Bay for fishing, kayaking, and picnics.",
+            "highlights": "Fishing, kayaking"
+          },
+          {
+            "name": "Plant Park",
+            "address": "401 W Kennedy Blvd, Tampa",
+            "text": "Shady downtown green space with historic landmarks on the river.",
+            "highlights": "Riverfront, history"
+          },
+          {
+            "name": "Hillsborough River State Park",
+            "address": "15402 U.S. Highway 301 N, Thonotosassa",
+            "text": "Canoeing, fishing, and hiking along the river.",
+            "highlights": "Canoeing, hiking trails"
+          },
+          {
+            "name": "Ballast Point Park",
+            "address": "5300 Interbay Blvd, Tampa",
+            "text": "A waterfront pier and boat ramp, and a good spot to watch the sunset.",
+            "highlights": "Fishing pier, sunsets"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "label": "Plan the rest of the weekend",
+      "href": "/events"
+    }
+  },
+  {
+    "slug": "the-people-behind-our-local-businesses",
+    "title": "The people behind our local businesses: share your story",
+    "section": "Business Spotlights",
+    "date": "2026-10-03",
+    "excerpt": "Behind every local business is someone who decided to build something. We want to hear from them.",
+    "body": [
+      {
+        "type": "p",
+        "text": "Behind every local business is someone who decided to build something. We want to hear about the people doing that work around Wesley Chapel."
+      },
+      {
+        "type": "p",
+        "text": "Business Spotlights go beyond a company name. What do you do? Why did you start? What do you wish locals knew about your work?"
+      },
+      {
+        "type": "h",
+        "text": "What makes a good story"
+      },
+      {
+        "type": "p",
+        "text": "Specifics. What you offer, where you work, and one thing that makes your approach personal. How you got started, or a lesson you learned the hard way, beats a list of slogans every time."
+      },
+      {
+        "type": "h",
+        "text": "What to send"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Your business name and a website or WCN listing link",
+          "Who we can contact, with permission to use their name",
+          "A short explanation of what you do and how it began",
+          "Your service area and public contact details",
+          "A photo you own or have permission to share, with credit"
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Put “Business Spotlight” at the start of your subject line. Submissions are reviewed for relevance and accuracy, and sending one doesn't guarantee publication. Any paid feature is clearly labeled."
+      }
+    ],
+    "cta": {
+      "label": "Send your story",
+      "href": "/contact#story"
+    }
+  }
+]

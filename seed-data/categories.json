@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "home-services",
+    "name": "Home Services",
+    "intro": "Pools, roofs, AC, plumbing, fences, floors, and the people who clean it all."
+  },
+  {
+    "slug": "beauty-personal-care",
+    "name": "Beauty & Personal Care",
+    "intro": "Salons, spas, and massage for when you need an hour back."
+  },
+  {
+    "slug": "health-wellness",
+    "name": "Health & Wellness",
+    "intro": "Pilates, chiropractic, and orthodontics close to home."
+  },
+  {
+    "slug": "automotive",
+    "name": "Automotive",
+    "intro": "Dealerships and auto glass repair."
+  },
+  {
+    "slug": "professional-services",
+    "name": "Professional Services",
+    "intro": "Mortgages and device repair."
+  },
+  {
+    "slug": "food-drink",
+    "name": "Food & Drink",
+    "intro": "Bagels, coffee, and a proper deli."
+  },
+  {
+    "slug": "kids-family",
+    "name": "Kids & Family",
+    "intro": "Piano lessons and learning for the kids."
+  },
+  {
+    "slug": "real-estate-housing",
+    "name": "Real Estate & Housing",
+    "intro": "Interior design for the new place."
+  }
+]
